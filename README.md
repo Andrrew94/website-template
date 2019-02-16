@@ -6,12 +6,15 @@ I also included some preview images of the page below.
 
 </br>
 Homepage
+
 ![Homepage](https://github.com/Andrrew94/website-template/blob/master/preview/Homepage.jpg)
 
 </br>
 Category
+
 ![Category](https://github.com/Andrrew94/website-template/blob/master/preview/Category.jpg)
 
 </br>
 Single category page
+
 ![Single](https://github.com/Andrrew94/website-template/blob/master/preview/Single.jpg)

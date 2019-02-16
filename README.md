@@ -10,11 +10,11 @@ I also included some preview images of the page below.
 ![Homepage](https://github.com/Andrrew94/website-template/blob/master/preview/Homepage.jpg)
 
 </br>
-Category
+<h2>Category</h2>
 
 ![Category](https://github.com/Andrrew94/website-template/blob/master/preview/Category.jpg)
 
 </br>
-Single category page
+<h2>Single category page</h2>
 
 ![Single](https://github.com/Andrrew94/website-template/blob/master/preview/Single.jpg)
